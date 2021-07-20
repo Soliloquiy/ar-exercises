@@ -30,3 +30,4 @@ Gastown.save
 puts "----------"
 
 
+puts Store.count
